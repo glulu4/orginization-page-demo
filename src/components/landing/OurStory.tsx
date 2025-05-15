@@ -10,7 +10,7 @@ export default function OurStory() {
             <div className='flex justify-center'>
                 <Image
                 
-                src="/images/icon2.png" // Replace with your actual image
+                src="/images/icon.png" // Replace with your actual image
                 width={300}
                 height={300}
                 alt="Paragon Exterior Team"
@@ -31,9 +31,9 @@ export default function OurStory() {
             <div className='space-y-8'>
                 <p className="mt-8 text-xl font-medium text-pretty text-gray-600 sm:text-3xl/8 text-center">
 
-                    We are a volunteer-led network of anesthesiologists united by a shared mission: to provide critical support during times of need. 
-                    Our team is dedicated to ensuring that patients receive the highest quality of care, no matter the circumstances. 
-                    We believe in the power of collaboration and the importance of sharing knowledge and resources to improve patient outcomes.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt itaque commodi sunt laudantium laboriosam porro. Temporibus provident veniam, beatae nam commodi cumque porro maxime quam fugit odio deleniti fugiat dolorem!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt itaque commodi sunt laudantium laboriosam porro. Temporibus provident veniam, beatae nam commodi cumque porro maxime quam fugit odio deleniti fugiat dolorem!
+
                 </p>
 
                 <p className="mt-8 text-xl font-medium text-pretty text-gray-600 sm:text-3xl/8 text-center">

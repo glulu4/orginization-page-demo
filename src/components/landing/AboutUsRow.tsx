@@ -25,8 +25,9 @@ export default function AboutUsRow() {
                 </div>
 
                 <p className="mt-8 text-xl font-medium text-pretty text-gray-600 sm:text-2xl/8">
-                    We are a a volunteer-led network of anesthesiologists united by a shared mission: to provide critical support during times of need.  
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa ea unde nisi odit, quasi quos facilis officiis distinctio est labore a laboriosam, sequi magni in vitae cupiditate laborum facere provident.              
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt itaque commodi sunt laudantium laboriosam porro. Temporibus provident veniam, beatae nam commodi cumque porro maxime quam fugit odio deleniti fugiat dolorem!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt itaque commodi sunt laudantium laboriosam porro. Temporibus provident veniam, beatae nam commodi cumque porro maxime quam fugit odio deleniti fugiat dolorem!
+
                     </p>
 
             </div>

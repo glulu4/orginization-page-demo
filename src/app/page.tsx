@@ -36,10 +36,6 @@ const Page = () => {
         <OurStory/>
       </div>
 
-      <div>
-        <StateOfIsrael/>
-      </div>
-
       <div id="help">
         <CTA/>
       </div>

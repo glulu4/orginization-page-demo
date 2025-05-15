@@ -144,7 +144,7 @@ export const Header: FunctionComponent = () => {
         <div className="relative h-12 w-12 mr-2">
           {/* Replace with your actual logo */}
           <Image
-            src="/images/icon2.png"
+            src="/images/icon.png"
             alt="Logo"
             width={60}
             height={60}
